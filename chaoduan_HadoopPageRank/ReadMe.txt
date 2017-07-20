@@ -1,7 +1,7 @@
 *********************************************
 * Project#1 P434                            *
 * PageRank                                  *
-*[Group 6 (Zhexu Fan & Chao Duan)]          *
+*[Chao Duan)]          *
 *********************************************
 This was a Java project as a practice of calculating pagerank of urls.
 In this version of code, we tested it using parameters 
